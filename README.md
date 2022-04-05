@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**ImSe4n/ImSe4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+🔭 I’m currently working on discord.js and node.js
 
-Here are some ideas to get you started:
+🌱 I’m currently learning some javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I don't want to collaborate
+
+🤔 I’m looking for help with NO I DON'T NEED HELP
+
+💬 Ask me about WHAT NO YOU DON'T GET TO KNOW ANYTHING ABOUT ME
+
+📫 How to reach me: WHAT NO DONT CONTACT ME
+
+😄 Pronouns: DONT ASK
+
+⚡ Fun fact: roblox
+
+
+| <a href="https://github.com/ImSe4n/Imroid-v2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImSe4n&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sean's github stats" /></a> | <a href="https://github.com/ImSe4n/Imroid-v2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSe4n&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+#### Top Repositories
+
+
+<a href="https://github.com/ImSe4n/Imroid-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/ImSe4n/Imroid-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=ImS3an.github.io&theme=buefy" />
+</a>
