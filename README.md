@@ -24,8 +24,8 @@ Hi there 👋
 
 
 <a href="https://github.com/ImSe4n/Imroid-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=Imroid-v3&theme=buefy" />
 </a>
 <a href="https://github.com/ImSe4n/Imroid-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=ImS3an.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=ImSe4n&theme=buefy" />
 </a>
