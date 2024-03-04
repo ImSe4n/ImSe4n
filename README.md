@@ -26,6 +26,6 @@ Hi there 👋
 <a href="https://github.com/ImSe4n/Imroid-v3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=Imroid-v3&theme=buefy" />
 </a>
-<a href="https://github.com/ImSe4n/ImSe4n">
+<a href="https://github.com/ImSe4n/ISU-Artifact-3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=ImSe4n&theme=buefy" />
 </a>
