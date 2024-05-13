@@ -18,12 +18,12 @@ Hi there 👋
 ⚡ Fun fact: roblox
 
 
-| <a href="https://github.com/ImSe4n/Imroid-v2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImSe4n&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sean's github stats" /></a> | <a href="https://github.com/ImSe4n/Imroid-v2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSe4n&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ImSe4n/Imse4n"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImSe4n&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sean's github stats" /></a> | <a href="https://github.com/ImSe4n/ImSe4n"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSe4n&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 #### Top Repositories
 
 
-<a href="https://github.com/ImSe4n/">
+<a href="https://github.com/ImSe4n/Imroid-v3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=Imroid-v3&theme=buefy" />
 </a>
 <a href="https://github.com/ImSe4n/ISU-Artifact-3">
