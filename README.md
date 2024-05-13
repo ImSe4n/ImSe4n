@@ -23,7 +23,7 @@ Hi there 👋
 #### Top Repositories
 
 
-<a href="https://github.com/ImSe4n/Imroid-v3">
+<a href="https://github.com/ImSe4n/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ImSe4n&repo=Imroid-v3&theme=buefy" />
 </a>
 <a href="https://github.com/ImSe4n/ISU-Artifact-3">
