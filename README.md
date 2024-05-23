@@ -114,9 +114,6 @@
 ```
 
 </h4>  
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/ImSe4n/ImSe4n/blob/main/github-contribution-grid-snake.svg)
-
 <br/>
 
 
