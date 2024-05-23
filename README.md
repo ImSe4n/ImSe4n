@@ -89,10 +89,6 @@
 </details>
 <br>
 
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ImSe4n&theme=react-dark&hide_border=true&area=true)
-
-
 <h4 align="center">
   
 ```diff
@@ -140,14 +136,9 @@
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
-
-
 **🐱 My Github Data** 
 
-> 🏆 ??? Contributions in the Year 2023
+> 🏆 ??? Contributions in the Year 2024
  > 
 > 📦 ??? MB Used in Github's Storage 
  > 
