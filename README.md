@@ -11,7 +11,7 @@
 
 
 My name is Sean, and I am an aspiring pilot from Ottawa, ON.
-- 🔭 I’m currently working on **FTC-27984, a FIRST TECH CHALLENGE Robot**
+- 🔭 I’m currently working on **SigmaBot, a FIRST TECH CHALLENGE Robot**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Java and Python**
 - 🧑‍💻 I'm practicing competitive programming!
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
